@@ -1,0 +1,8 @@
+{
+  "name": "cypress-automation-sample",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
+}
